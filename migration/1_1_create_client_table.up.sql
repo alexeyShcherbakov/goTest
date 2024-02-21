@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS client (title varchar, body varchar);
